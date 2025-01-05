@@ -22,7 +22,7 @@ pip install opencv-python numpy
 1. Replace `'your_image_path.jpg'` in the code with your image path
 2. Run the program:
    ```bash
-   python angle_calculator.py
+   run mark_1.ipynb
    ```
 3. Click any three points to measure an angle
 4. Controls:
